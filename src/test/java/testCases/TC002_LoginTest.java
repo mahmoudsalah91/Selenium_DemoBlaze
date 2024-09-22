@@ -1,7 +1,6 @@
 package testCases;
 
 import org.testng.Assert;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import pageOpajects.HomePage;
 import pageOpajects.LoginPage;

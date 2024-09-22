@@ -43,8 +43,5 @@ public class TC001_AccountRegistrationTest extends BaseClass {
             e.printStackTrace();
         }
     }
-    @AfterTest
-    void tearDown(){
-        driver.quit();
-    }
+
 }
